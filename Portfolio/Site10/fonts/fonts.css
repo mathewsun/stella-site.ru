@@ -1,0 +1,48 @@
+/* InterFace */
+@font-face {
+    font-family: 'InterFace';
+    src: url('InterFace-Regular.eot');
+    src: url('InterFace-Regular.eot?#iefix') format('embedded-opentype'),
+        url('InterFace-Regular.woff2') format('woff2'),
+        url('InterFace-Regular.woff') format('woff'),
+        url('InterFace-Regular.ttf') format('truetype'),
+        url('InterFace-Regular.svg#InterFace-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'InterFace';
+    src: url('InterFace-Bold.eot');
+    src: url('InterFace-Bold.eot?#iefix') format('embedded-opentype'),
+        url('InterFace-Bold.woff2') format('woff2'),
+        url('InterFace-Bold.woff') format('woff'),
+        url('InterFace-Bold.ttf') format('truetype'),
+        url('InterFace-Bold.svg#InterFace-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+/* CoFo Sans */
+@font-face {
+    font-family: 'CoFo Sans';
+    src: url('CoFoSans-Medium.eot');
+    src: url('CoFoSans-Medium.eot?#iefix') format('embedded-opentype'),
+        url('CoFoSans-Medium.woff2') format('woff2'),
+        url('CoFoSans-Medium.woff') format('woff'),
+        url('CoFoSans-Medium.ttf') format('truetype'),
+        url('CoFoSans-Medium.svg#CoFoSans-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'CoFo Sans';
+    src: url('CoFoSans-Black.eot');
+    src: url('CoFoSans-Black.eot?#iefix') format('embedded-opentype'),
+        url('CoFoSans-Black.woff2') format('woff2'),
+        url('CoFoSans-Black.woff') format('woff'),
+        url('CoFoSans-Black.ttf') format('truetype'),
+        url('CoFoSans-Black.svg#CoFoSans-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}

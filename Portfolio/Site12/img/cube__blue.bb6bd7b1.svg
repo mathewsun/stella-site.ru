@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 265.1 296.3">
+  <defs>
+    <path id="b" d="M126.6 1.4L7 63.1c-4.3 2.2-7 6.6-7 11.5v147c0 4.8 2.7 9.3 7 11.5l119.6 61.7c3.7 1.9 8.1 1.9 11.8 0L258 233.1c4.3-2.2 7-6.6 7-11.5v-147c0-4.8-2.7-9.3-7-11.5L138.4 1.4c-3.7-1.9-8.1-1.9-11.8 0z"/>
+  </defs>
+  <linearGradient id="a" x1="135.9493" x2="60.6518" y1="155.4802" y2="-6.4094" gradientUnits="userSpaceOnUse">
+    <stop offset=".07290727" stop-color="#37b0c6"/>
+    <stop offset=".2207" stop-color="#34adc5"/>
+    <stop offset=".405" stop-color="#2ba3c0"/>
+    <stop offset=".6088" stop-color="#1b94b8"/>
+    <stop offset=".825" stop-color="#087eab"/>
+    <stop offset=".9769" stop-color="#016ca0"/>
+  </linearGradient>
+  <use fill="url(#a)" overflow="visible" xlink:href="#b"/>
+  <clipPath id="d">
+    <use overflow="visible" xlink:href="#b"/>
+  </clipPath>
+  <linearGradient id="c" x1="247.9619" x2="123.4281" y1="322.2507" y2="-26.4439" gradientUnits="userSpaceOnUse">
+    <stop offset=".07290727" stop-color="#37b0c6"/>
+    <stop offset=".2207" stop-color="#34adc5"/>
+    <stop offset=".405" stop-color="#2ba3c0"/>
+    <stop offset=".6088" stop-color="#1b94b8"/>
+    <stop offset=".825" stop-color="#087eab"/>
+    <stop offset=".9769" stop-color="#016ca0"/>
+  </linearGradient>
+  <path fill="url(#c)" d="M132.5 135.1l128-66c2.1-1.1 4.6.4 4.6 2.8v152.4c0 3.2-1.8 6.2-4.7 7.7l-127.9 66V135.1z" clip-path="url(#d)"/>
+  <linearGradient id="e" x1="185.9623" x2="7.4659" y1="183.1991" y2="183.1991" gradientUnits="userSpaceOnUse">
+    <stop offset=".07290727" stop-color="#37b0c6"/>
+    <stop offset=".2207" stop-color="#34adc5"/>
+    <stop offset=".405" stop-color="#2ba3c0"/>
+    <stop offset=".6088" stop-color="#1b94b8"/>
+    <stop offset=".825" stop-color="#087eab"/>
+    <stop offset=".9769" stop-color="#016ca0"/>
+  </linearGradient>
+  <path fill="url(#e)" d="M4.7 232l127.9 66V135.1L4 68.8c-1.8-.9-4 .4-4 2.4v153.1c0 3.2 1.8 6.2 4.7 7.7z" clip-path="url(#d)"/>
+</svg>

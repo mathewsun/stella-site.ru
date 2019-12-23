@@ -1,0 +1,12 @@
+User-agent: Yandex
+Allow: *.css
+Allow: *.js
+Disallow: /phpmailer
+Host: pdaa.ru
+
+User-agent: *
+Allow: *.css
+Allow: *.js
+Disallow: /phpmailer
+Sitemap: http://pdaa.ru/sitemap.xml
+
