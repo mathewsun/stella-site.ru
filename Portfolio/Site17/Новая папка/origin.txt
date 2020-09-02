@@ -1,0 +1,1144 @@
+Uri: https://franchise.fortfamily.ru/
+File Name: D:\work\fort\franchise.fortfamily.ru\index.htm
+Content Type: text/html
+
+Uri: https://franchise.fortfamily.ru/img/favicon/favicon.ico
+File Name: D:\work\fort\franchise.fortfamily.ru\img\favicon\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://franchise.fortfamily.ru/img/favicon/apple-touch-icon.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\favicon\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/favicon/apple-touch-icon-72x72.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\favicon\apple-touch-icon-72x72.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/favicon/apple-touch-icon-114x114.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\favicon\apple-touch-icon-114x114.png
+Content Type: image/png
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css
+File Name: D:\work\fort\franchise.fortfamily.ru\bootstrap\4.3.1\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://franchise.fortfamily.ru/libs/bootstrap/css/bootstrap-reboot.min.css
+File Name: D:\work\fort\franchise.fortfamily.ru\libs\bootstrap\css\bootstrap-reboot.min.css
+Content Type: text/css
+
+Uri: https://franchise.fortfamily.ru/libs/bootstrap/css/bootstrap-grid.min.css
+File Name: D:\work\fort\franchise.fortfamily.ru\libs\bootstrap\css\bootstrap-grid.min.css
+Content Type: text/css
+
+Uri: https://franchise.fortfamily.ru/libs/intl-tel-input/css/intlTelInput.min.css
+File Name: D:\work\fort\franchise.fortfamily.ru\libs\intl-tel-input\css\intlTelInput.min.css
+Content Type: text/css
+
+Uri: https://franchise.fortfamily.ru/libs/slick/slick.css
+File Name: D:\work\fort\franchise.fortfamily.ru\libs\slick\slick.css
+Content Type: text/css
+
+Uri: https://franchise.fortfamily.ru/libs/slick/slick-theme.css
+File Name: D:\work\fort\franchise.fortfamily.ru\libs\slick\slick-theme.css
+Content Type: text/css
+
+Uri: https://franchise.fortfamily.ru/libs/magnific-popup/magnific-popup.css
+File Name: D:\work\fort\franchise.fortfamily.ru\libs\magnific-popup\magnific-popup.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.8.2/css/all.css
+File Name: D:\work\fort\franchise.fortfamily.ru\releases\v5.8.2\css\all.css
+Content Type: text/css
+
+Uri: https://franchise.fortfamily.ru/css/style.css?v=8
+File Name: D:\work\fort\franchise.fortfamily.ru\css\style.css
+Content Type: text/css
+
+Uri: https://franchise.fortfamily.ru/css/media.css?v=2
+File Name: D:\work\fort\franchise.fortfamily.ru\css\media.css
+Content Type: text/css
+
+Uri: https://fortfamily.ru/
+File Name: D:\work\fort\franchise.fortfamily.ru\index-1.htm
+Content Type: text/html
+
+Uri: https://fortfamily.ru/investments/
+File Name: D:\work\fort\franchise.fortfamily.ru\investments\index.htm
+Content Type: text/html
+
+Uri: https://businessmens.ru/franchise/rating
+File Name: D:\work\fort\franchise.fortfamily.ru\franchise\rating.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=8Wf_y7EY66s
+File Name: D:\work\fort\franchise.fortfamily.ru\watch.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=-ylnGDX1PbE
+File Name: D:\work\fort\franchise.fortfamily.ru\watch-1.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=STbWl65R4L8
+File Name: D:\work\fort\franchise.fortfamily.ru\watch-2.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=sIrnYw-_NQA
+File Name: D:\work\fort\franchise.fortfamily.ru\watch-3.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=wiwF7p1a9QI
+File Name: D:\work\fort\franchise.fortfamily.ru\watch-4.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=EXSdov1mb-Q
+File Name: D:\work\fort\franchise.fortfamily.ru\watch-5.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=n1ZaQV0OVSQ
+File Name: D:\work\fort\franchise.fortfamily.ru\watch-6.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=MdjWUsWiYCI
+File Name: D:\work\fort\franchise.fortfamily.ru\watch-7.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=aiOiQCTt6Ng
+File Name: D:\work\fort\franchise.fortfamily.ru\watch-8.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=vMIBtg2t_yM
+File Name: D:\work\fort\franchise.fortfamily.ru\watch-9.html
+Content Type: text/html
+
+Uri: https://franchise.fortfamily.ru/img/alfabank.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\alfabank.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/tinkoff.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\tinkoff.jpg
+Content Type: image/jpeg
+
+Uri: https://www.facebook.com/fortfamily.ru/
+File Name: D:\work\fort\franchise.fortfamily.ru\fortfamily.ru\index.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/fortfamily.m/
+File Name: D:\work\fort\franchise.fortfamily.ru\fortfamily.m\index.htm
+Content Type: text/html
+
+Uri: http://conversionart.ru/
+File Name: D:\work\fort\franchise.fortfamily.ru\index-2.htm
+Content Type: text/html
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css
+File Name: D:\work\fort\franchise.fortfamily.ru\ajax\libs\fancybox\3.5.7\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js
+File Name: D:\work\fort\franchise.fortfamily.ru\npm\lozad\dist\lozad.min.js
+Content Type: application/javascript
+
+Uri: https://pxl.knam.pro/code/code.php
+File Name: D:\work\fort\franchise.fortfamily.ru\code\code.php
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/ns.html?id=GTM-M56CVHB
+File Name: D:\work\fort\franchise.fortfamily.ru\ns.html
+Content Type: text/html
+
+Uri: https://franchise.fortfamily.ru/images/header/fort.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\header\fort.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/header/liho.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\header\liho.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/header/jum.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\header\jum.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/header/zov_logo_20.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\header\zov_logo_20.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/twig-left.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\twig-left.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/img/business-mens-logo.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\business-mens-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/img/twig-right.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\twig-right.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/images/section-2/rublev.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-2\rublev.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/images/partners3.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\images\partners3.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/slider/slide6.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\slider\slide6.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/slider/slide1.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\slider\slide1.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/slider/slide2.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\slider\slide2.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/slider/slide3.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\slider\slide3.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/slider/slide4.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\slider\slide4.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/slider/slide5.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\slider\slide5.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/slider/slide7.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\slider\slide7.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/slider/slide8.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\slider\slide8.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/slider/slide9.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\slider\slide9.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/slider/slide10.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\slider\slide10.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/slider/slide11.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\slider\slide11.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/slider/slide12.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\slider\slide12.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/slider/slide13.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\slider\slide13.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/slider/slide14.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\slider\slide14.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/point-geo.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\point-geo.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/video/video7.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\video\video7.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/video/video8.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\video\video8.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/video/video1.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\video\video1.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/video/video2.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\video\video2.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/video/video3.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\video\video3.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/video/video4.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\video\video4.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/video/video5.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\video\video5.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/images/section-7/divider.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-7\divider.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/slider2/slide1.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\slider2\slide1.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/slider2/slide2.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\slider2\slide2.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/slider2/slide3.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\slider2\slide3.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/slider2/slide4.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\slider2\slide4.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/slider2/slide5.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\slider2\slide5.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/slider2/slide6.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\slider2\slide6.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/slider2/slide7.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\slider2\slide7.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/slider2/slide8.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\slider2\slide8.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/slider2/slide9.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\slider2\slide9.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/slider2/slide10.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\slider2\slide10.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/slider2/slide11.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\slider2\slide11.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/section-3/item-1-logo.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\section-3\item-1-logo.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/section-3/zov_logo_100.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\section-3\zov_logo_100.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/section-3/item-3-logo.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\section-3\item-3-logo.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/loader.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\loader.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/images/section-12/nav/1.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-12\nav\1.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-12/nav/2.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-12\nav\2.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-12/nav/3.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-12\nav\3.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-12/nav/4.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-12\nav\4.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-12/nav/5.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-12\nav\5.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-12/nav/6.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-12\nav\6.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/alfabank.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\alfabank.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/tinkov.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\tinkov.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/libs/jquery/dist/jquery.min.js
+File Name: D:\work\fort\franchise.fortfamily.ru\libs\jquery\dist\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://franchise.fortfamily.ru/libs/magnific-popup/jquery.magnific-popup.js
+File Name: D:\work\fort\franchise.fortfamily.ru\libs\magnific-popup\jquery.magnific-popup.js
+Content Type: application/javascript
+
+Uri: https://franchise.fortfamily.ru/libs/intl-tel-input/js/intlTelInput.min.js
+File Name: D:\work\fort\franchise.fortfamily.ru\libs\intl-tel-input\js\intlTelInput.min.js
+Content Type: application/javascript
+
+Uri: https://franchise.fortfamily.ru/libs/slick/slick.js
+File Name: D:\work\fort\franchise.fortfamily.ru\libs\slick\slick.js
+Content Type: application/javascript
+
+Uri: https://franchise.fortfamily.ru/libs/flatpickr/ru-custom.js
+File Name: D:\work\fort\franchise.fortfamily.ru\libs\flatpickr\ru-custom.js
+Content Type: application/javascript
+
+Uri: https://franchise.fortfamily.ru/js/common.js?v=3
+File Name: D:\work\fort\franchise.fortfamily.ru\js\common.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js
+File Name: D:\work\fort\franchise.fortfamily.ru\ajax\libs\fancybox\3.5.7\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://franchise.fortfamily.ru/libs/intl-tel-input/img/flags.png
+File Name: D:\work\fort\franchise.fortfamily.ru\libs\intl-tel-input\img\flags.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/libs/intl-tel-input/img/flags@2x.png
+File Name: D:\work\fort\franchise.fortfamily.ru\libs\intl-tel-input\img\flags@2x.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/libs/slick/ajax-loader.gif
+File Name: D:\work\fort\franchise.fortfamily.ru\libs\slick\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://franchise.fortfamily.ru/libs/slick/fonts/slick.eot
+File Name: D:\work\fort\franchise.fortfamily.ru\libs\slick\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://franchise.fortfamily.ru/libs/slick/fonts/slick.eot?
+File Name: D:\work\fort\franchise.fortfamily.ru\libs\slick\fonts\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://franchise.fortfamily.ru/libs/slick/fonts/slick.woff
+File Name: D:\work\fort\franchise.fortfamily.ru\libs\slick\fonts\slick.woff
+Content Type: application/font-woff
+
+Uri: https://franchise.fortfamily.ru/libs/slick/fonts/slick.ttf
+File Name: D:\work\fort\franchise.fortfamily.ru\libs\slick\fonts\slick.ttf
+Content Type: application/font-sfnt
+
+Uri: https://franchise.fortfamily.ru/libs/slick/fonts/slick.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\libs\slick\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/fonts/Spectral/Spectral-SemiBold.eot
+File Name: D:\work\fort\franchise.fortfamily.ru\fonts\Spectral\Spectral-SemiBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://franchise.fortfamily.ru/fonts/Spectral/Spectral-SemiBold.eot?
+File Name: D:\work\fort\franchise.fortfamily.ru\fonts\Spectral\Spectral-SemiBold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://franchise.fortfamily.ru/fonts/Spectral/Spectral-SemiBold.woff
+File Name: D:\work\fort\franchise.fortfamily.ru\fonts\Spectral\Spectral-SemiBold.woff
+Content Type: application/font-woff
+
+Uri: https://franchise.fortfamily.ru/fonts/Spectral/Spectral-SemiBold.ttf
+File Name: D:\work\fort\franchise.fortfamily.ru\fonts\Spectral\Spectral-SemiBold.ttf
+Content Type: application/font-sfnt
+
+Uri: https://franchise.fortfamily.ru/fonts/Spectral/Spectral-SemiBold.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\fonts\Spectral\Spectral-SemiBold.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/fonts/MuseoSansCyrl/MuseoSansCyrillic-700.eot
+File Name: D:\work\fort\franchise.fortfamily.ru\fonts\MuseoSansCyrl\MuseoSansCyrillic-700.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://franchise.fortfamily.ru/fonts/MuseoSansCyrl/MuseoSansCyrillic-700.eot?
+File Name: D:\work\fort\franchise.fortfamily.ru\fonts\MuseoSansCyrl\MuseoSansCyrillic-700-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://franchise.fortfamily.ru/fonts/MuseoSansCyrl/MuseoSansCyrillic-700.woff
+File Name: D:\work\fort\franchise.fortfamily.ru\fonts\MuseoSansCyrl\MuseoSansCyrillic-700.woff
+Content Type: application/font-woff
+
+Uri: https://franchise.fortfamily.ru/fonts/MuseoSansCyrl/MuseoSansCyrillic-700.ttf
+File Name: D:\work\fort\franchise.fortfamily.ru\fonts\MuseoSansCyrl\MuseoSansCyrillic-700.ttf
+Content Type: application/font-sfnt
+
+Uri: https://franchise.fortfamily.ru/fonts/MuseoSansCyrl/MuseoSansCyrillic-700.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\fonts\MuseoSansCyrl\MuseoSansCyrillic-700.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/fonts/MuseoSansCyrl/MuseoSansCyrillic-500.eot
+File Name: D:\work\fort\franchise.fortfamily.ru\fonts\MuseoSansCyrl\MuseoSansCyrillic-500.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://franchise.fortfamily.ru/fonts/MuseoSansCyrl/MuseoSansCyrillic-500.eot?
+File Name: D:\work\fort\franchise.fortfamily.ru\fonts\MuseoSansCyrl\MuseoSansCyrillic-500-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://franchise.fortfamily.ru/fonts/MuseoSansCyrl/MuseoSansCyrillic-500.woff
+File Name: D:\work\fort\franchise.fortfamily.ru\fonts\MuseoSansCyrl\MuseoSansCyrillic-500.woff
+Content Type: application/font-woff
+
+Uri: https://franchise.fortfamily.ru/fonts/MuseoSansCyrl/MuseoSansCyrillic-500.ttf
+File Name: D:\work\fort\franchise.fortfamily.ru\fonts\MuseoSansCyrl\MuseoSansCyrillic-500.ttf
+Content Type: application/font-sfnt
+
+Uri: https://franchise.fortfamily.ru/fonts/MuseoSansCyrl/MuseoSansCyrillic-500.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\fonts\MuseoSansCyrl\MuseoSansCyrillic-500.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/fonts/MuseoSansCyrl/MuseoSansCyrillic-300.eot
+File Name: D:\work\fort\franchise.fortfamily.ru\fonts\MuseoSansCyrl\MuseoSansCyrillic-300.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://franchise.fortfamily.ru/fonts/MuseoSansCyrl/MuseoSansCyrillic-300.eot?
+File Name: D:\work\fort\franchise.fortfamily.ru\fonts\MuseoSansCyrl\MuseoSansCyrillic-300-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://franchise.fortfamily.ru/fonts/MuseoSansCyrl/MuseoSansCyrillic-300.woff
+File Name: D:\work\fort\franchise.fortfamily.ru\fonts\MuseoSansCyrl\MuseoSansCyrillic-300.woff
+Content Type: application/font-woff
+
+Uri: https://franchise.fortfamily.ru/fonts/MuseoSansCyrl/MuseoSansCyrillic-300.ttf
+File Name: D:\work\fort\franchise.fortfamily.ru\fonts\MuseoSansCyrl\MuseoSansCyrillic-300.ttf
+Content Type: application/font-sfnt
+
+Uri: https://franchise.fortfamily.ru/fonts/MuseoSansCyrl/MuseoSansCyrillic-300.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\fonts\MuseoSansCyrl\MuseoSansCyrillic-300.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/img/header/header-2.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\header\header-2.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/header/header-3.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\header\header-3.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/header/logo-2.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\header\logo-2.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/header/logo-3.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\header\logo-3.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/header/header-1.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\images\header\header-1.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/images/header/bottom.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\images\header\bottom.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/img/header/logo-1.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\header\logo-1.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/header/slide-1.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\header\slide-1.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/header/slide-2.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\header\slide-2.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/header/slide-3.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\header\slide-3.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/quiz/timer-2.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\quiz\timer-2.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/quiz/timer.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\quiz\timer.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/quiz/indicator-bg.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\quiz\indicator-bg.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/quiz/border-top.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\quiz\border-top.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/quiz/border-bottom.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\quiz\border-bottom.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/quiz/border-left.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\quiz\border-left.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/quiz/border-right.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\quiz\border-right.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-1/manager.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-1\manager.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-1/bottomcontact/top.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-1\bottomcontact\top.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/images/section-1/bottomcontact/right.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-1\bottomcontact\right.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/images/section-1/bottomcontact/bottom.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-1\bottomcontact\bottom.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/images/section-1/bottomcontact/left.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-1\bottomcontact\left.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/images/section-1/bottomcontact/phone.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-1\bottomcontact\phone.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/images/section-1/bottomcontact/phoneline.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-1\bottomcontact\phoneline.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-1/bottomcontact/whatsapp.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-1\bottomcontact\whatsapp.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/images/section-1/bottomcontact/whatsappline.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-1\bottomcontact\whatsappline.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-1/bottomcontact/viber.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-1\bottomcontact\viber.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/images/section-1/bottomcontact/viberline.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-1\bottomcontact\viberline.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-1/bottomcontact/telegram.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-1\bottomcontact\telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/images/section-1/bottomcontact/tgline.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-1\bottomcontact\tgline.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/quiz/quiz-1-1.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\quiz\quiz-1-1.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/quiz/quiz-1-2.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\quiz\quiz-1-2.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/quiz/quiz-1-3.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\quiz\quiz-1-3.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/quiz/quiz-1-4.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\quiz\quiz-1-4.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/quiz/quiz-texted.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\quiz\quiz-texted.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/section-2/section-2-img.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\section-2\section-2-img.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/section-2/border-top.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\section-2\border-top.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/section-2/border-bottom.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\section-2\border-bottom.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/section-3/item-1-bg.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\section-3\item-1-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/section-3/item-2-bg.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\section-3\item-2-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/section-3/item-4-bg.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\section-3\item-4-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/section-3/item-3-bg.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\section-3\item-3-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/section-3/info-bg-1.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\section-3\info-bg-1.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/section-3/info-border-left.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\section-3\info-border-left.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/section-3/info-border-right.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\section-3\info-border-right.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/section-3/info-bg-2.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\section-3\info-bg-2.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/section-3/info-border-top.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\section-3\info-border-top.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/section-3/info-border-bottom.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\section-3\info-border-bottom.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/section-6/slider-1/slider-bg.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\section-6\slider-1\slider-bg.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/section-6/slider-2/slider-bg.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\section-6\slider-2\slider-bg.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/section-6/slider-3/slider-bg.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\section-6\slider-3\slider-bg.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/section-6/slider-4/slider-bg.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\section-6\slider-4\slider-bg.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/section-7/coupon.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\section-7\coupon.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/section-7/border-top.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\section-7\border-top.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/section-7/border-bottom.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\section-7\border-bottom.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/section-8/image-1.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\section-8\image-1.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/section-8/image-2.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\section-8\image-2.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/section-8/image-3.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\section-8\image-3.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/section-8/image-4.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\section-8\image-4.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/section-8/image-5.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\section-8\image-5.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/section-9/image-1.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\section-9\image-1.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/section-9/image-2.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\section-9\image-2.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/modal-consult-bg.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\modal-consult-bg.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-2/bottle.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-2\bottle.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-2/topline.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-2\topline.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-2/line.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-2\line.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-2/anchor.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-2\anchor.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-3/king.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-3\king.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-5/PLAY.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-5\PLAY.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/images/section-6/bg.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-6\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/images/section-6/top.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-6\top.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/images/section-6/bottom.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-6\bottom.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/images/section-7/map.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-7\map.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-7/layleft.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-7\layleft.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-7/layright.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-7\layright.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-7/geo.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-7\geo.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-7/people.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-7\people.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/images/section-7/coin.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-7\coin.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/images/section-8/top.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-8\top.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/images/section-8/bottom.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-8\bottom.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/images/section-8/icons.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-8\icons.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/images/section-9/video.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-9\video.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-9/quote.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-9\quote.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/images/section-11/top.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-11\top.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/images/section-11/bottom.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-11\bottom.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/images/section-11/compass_engrave.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-11\compass_engrave.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-11/coins.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-11\coins.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-11/coinsleft.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-11\coinsleft.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-12/nav/circle_indicator.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-12\nav\circle_indicator.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-12/nav/check.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-12\nav\check.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-13/top.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-13\top.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/images/section-13/bottom.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-13\bottom.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/images/section-13/line/right.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-13\line\right.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/images/section-13/line/bottom.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-13\line\bottom.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/images/section-13/line/left.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-13\line\left.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/images/section-13/bg.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-13\bg.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-14/slide/dollar.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-14\slide\dollar.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-14/slide/arrow.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-14\slide\arrow.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-14/slide/play.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-14\slide\play.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-15/magazine_comp.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-15\magazine_comp.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-15/Vector.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-15\Vector.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-15/coins.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-15\coins.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-15/coins2.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-15\coins2.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/header/rectangle.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\header\rectangle.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/thanks/top.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\thanks\top.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/thanks/right.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\thanks\right.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/thanks/bottom.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\thanks\bottom.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/thanks/left.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\thanks\left.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/thanks/coins.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\thanks\coins.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/thanks/coins2.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\thanks\coins2.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/thanks/google.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\thanks\google.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/header/header-1-en.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\header\header-1-en.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-6/bg-en.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-6\bg-en.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-15/magazine_comp-en.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-15\magazine_comp-en.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/mobile/10-en.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\mobile\10-en.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/mobile/10-fr.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\mobile\10-fr.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-8/slide_marker.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-8\slide_marker.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/img/lion.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\lion.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/earnings-bg.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\earnings-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/img/earnings-bg-lg.svg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\earnings-bg-lg.svg
+Content Type: image/svg+xml
+
+Uri: https://franchise.fortfamily.ru/img/strelka.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\strelka.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800&display=swap
+File Name: D:\work\fort\franchise.fortfamily.ru\css2.css
+Content Type: text/css
+
+Uri: https://franchise.fortfamily.ru/images/mobile/bottom_arrow.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\mobile\bottom_arrow.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/quiz/quiz-1-1-sm.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\quiz\quiz-1-1-sm.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/quiz/quiz-1-2-sm.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\quiz\quiz-1-2-sm.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/quiz/quiz-1-3-sm.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\quiz\quiz-1-3-sm.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/quiz/quiz-1-4-sm.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\quiz\quiz-1-4-sm.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/quiz/quiz-2-1-sm.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\quiz\quiz-2-1-sm.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/quiz/quiz-2-2-sm.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\quiz\quiz-2-2-sm.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/quiz/quiz-2-3-sm.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\quiz\quiz-2-3-sm.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/quiz/quiz-4-1-sm.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\quiz\quiz-4-1-sm.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/quiz/quiz-4-2-sm.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\quiz\quiz-4-2-sm.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/quiz/quiz-4-3-sm.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\quiz\quiz-4-3-sm.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/quiz/quiz-4-4-sm.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\quiz\quiz-4-4-sm.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/quiz/quiz-texted-sm.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\quiz\quiz-texted-sm.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/section-9/bg-sm.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\section-9\bg-sm.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/header/mobilebg.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\header\mobilebg.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/header/header-sm-2.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\header\header-sm-2.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/header/header-sm-3.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\header\header-sm-3.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/header/header-sm-1.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\header\header-sm-1.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/header/border-sm.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\header\border-sm.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/section-2/section-2-img-sm.jpg
+File Name: D:\work\fort\franchise.fortfamily.ru\img\section-2\section-2-img-sm.jpg
+Content Type: image/jpeg
+
+Uri: https://franchise.fortfamily.ru/img/section-2/border-sm-top.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\section-2\border-sm-top.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/section-2/border-sm-bottom.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\section-2\border-sm-bottom.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/section-2/border-sm-left.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\section-2\border-sm-left.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/img/section-2/border-sm-right.png
+File Name: D:\work\fort\franchise.fortfamily.ru\img\section-2\border-sm-right.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-1/mobile/viber.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-1\mobile\viber.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-1/mobile/telegram.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-1\mobile\telegram.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/section-1/mobile/whatsapp.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\section-1\mobile\whatsapp.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/mobile/mapgrey.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\mobile\mapgrey.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/mobile/cov.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\mobile\cov.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/mobile/compass_engrave.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\mobile\compass_engrave.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/mobile/10.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\mobile\10.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/mobile/leftcoins_min.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\mobile\leftcoins_min.png
+Content Type: image/png
+
+Uri: https://franchise.fortfamily.ru/images/mobile/rightcoins_min.png
+File Name: D:\work\fort\franchise.fortfamily.ru\images\mobile\rightcoins_min.png
+Content Type: image/png
+
+Uri: https://fortfamily.ru/hr/
+File Name: D:\work\fort\franchise.fortfamily.ru\hr\index.htm
+Content Type: text/html
+
+Uri: https://fortfamily.ru/about/
+File Name: D:\work\fort\franchise.fortfamily.ru\about\index.htm
+Content Type: text/html
+
+Uri: https://api.whatsapp.com/send?phone=79250665592&text=&source=&data=&app_absent=
+File Name: D:\work\fort\franchise.fortfamily.ru\send.html
+Content Type: text/html
+
+Uri: https://fr.fortfamily.ru/call-back/
+File Name: D:\work\fort\franchise.fortfamily.ru\call-back\index.htm
+Content Type: text/html
+

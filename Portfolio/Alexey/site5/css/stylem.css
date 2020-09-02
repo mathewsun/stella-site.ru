@@ -1,0 +1,63 @@
+@import url(reset.css);
+
+body{
+    font-size: 100%;
+    font: 1.125em 'Roboto', 'PT Sans', sans-serif;
+}
+
+#menu {
+    background: #2ba9c0;
+    width: 100%;
+    padding: 10px 0;
+    text-align: center;
+}
+
+#menu a {
+    color: #fff;
+    text-decoration: none;
+	
+padding-right: 25px;
+}
+
+
+
+.itemsMenu li {
+    display:inline;
+    padding-right: 8px;
+    width:100%;
+    margin: 0 -11px;
+}
+    .itemsMenu li img{
+        vertical-align: middle;
+        margin-right: 10px;
+    }
+
+.iconMenu {
+    color: #fff;
+    cursor: pointer;
+    display: none;
+}
+.showitems {
+    display:block !important;
+}
+
+@media screen and (max-width: 600px) {
+    #menu a{
+        padding-bottom: 13px;
+    }
+    #menu a:hover {
+        border-bottom: none; 
+    }
+    .iconMenu {
+      display:block; 
+  }
+    .itemsMenu {
+        display:none;   
+    }
+        .itemsMenu li {
+            display:block;
+            padding:10px 0;
+        }
+}
+
+

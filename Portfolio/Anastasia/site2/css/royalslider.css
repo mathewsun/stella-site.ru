@@ -1,0 +1,714 @@
+ /*
+ RoyalSlider
+ 
+ */
+.royalSlider {	
+	position:relative;
+  padding-bottom: 0px;
+	/* set width and height of slider here, in px, % or em*/
+	width:990px;
+	height:434px;
+	/* Used to prevent content "jumping" on page load. this property is removed when javascript is loaded and slider is instanciated */
+	overflow:hidden;
+}
+
+
+/**
+*  Slides area (set background here)
+*/
+
+.royalSlider .royalWrapper {
+	overflow:hidden;	
+	position:relative;
+
+	width:100%;
+	height:100%;
+}
+.royalSlider .royalSlide,
+.royalSlider .royalWrapper {
+	/* Bakground behind slides */
+	background: transparent;
+}
+/* slides holder, grabbing container */
+.royalSlider .royalSlidesContainer {
+	position: relative;
+	left: 0;
+	top: 0 !important;
+	list-style:none !important;
+	margin:0 !important;
+	padding:0 !important;
+	border: 0 !important;
+}
+
+
+/* slide item */
+.royalSlider .royalSlide {
+	padding: 0 !important;
+	margin: 0 !important;	
+	border: 0 !important;
+	list-style: none !important;
+	
+	position:relative;
+	float:left;	
+	
+	overflow:hidden;	
+}
+
+/* 
+
+	Direction Navigation (arrows) 
+
+*/
+.royalSlider .arrow
+{
+	/* change arrows size here */
+
+
+	top:50%;
+	margin-top:-45px;
+
+	cursor: pointer;
+	display: block;
+	position: absolute;
+
+	z-index:25;
+
+}
+.royalSlider .arrow:hover {
+
+}
+.royalSlider .arrow.disabled {
+
+}
+
+/* Control navigation container (bullets or thumbs) */
+.royalSlider .royalControlNavOverflow {
+	width:100%;
+	position:absolute;
+	margin-top:-20px;
+	z-index:25;
+}
+/* This container is inside ".royalControlNavContainer"  
+   and is used for auto horizontal centering */
+.royalSlider .royalControlNavCenterer {	
+	float: left;
+	position: relative;
+}
+/* Control navigation container*/ 
+.royalSlider .royalControlNavContainer {
+	float: left;
+	position: absolute;
+	right: 40px;	
+	top: -55px;
+}
+
+
+/* Scrollable thumbnails containers */
+.royalSlider .royalControlNavThumbsContainer {		
+	left: auto;
+	position:relative;
+}
+.royalSlider .thumbsAndArrowsContainer {
+	overflow:hidden;
+	width: 100%;
+	position: relative;
+}
+.royalSlider .royalControlNavOverflow.royalThumbs {	
+	width: auto;
+	position: relative;
+	overflow: hidden;
+	margin-top:4px;	
+}
+
+
+
+
+
+
+/* 
+
+	Control navigation (bullets, thumbnails)
+	
+*/
+.royalSlider .royalControlNavOverflow a{	
+	background:#0C0 none no-repeat scroll 0 0;
+	
+	width:20px;
+	height:20px;	
+	
+	float:left;	
+	cursor:pointer;	
+	
+	position:relative;
+	display:block;
+	
+	text-indent: -9999px;	
+}
+/* Current control navigation item */
+.royalSlider .royalControlNavOverflow a.current {	
+	background-color: #C00;	
+}
+/* Hover state navigation item */
+.royalSlider .royalControlNavOverflow a:hover {	
+	background-color: #00C;
+}
+
+/* Thumbnails */
+.royalSlider .royalControlNavOverflow a.royalThumb{	
+	/*background: none no-repeat 0 0;*/
+	/*background-color: ;*/
+	width:144px;
+	height:60px;	
+	/* thumbnails spacing, use margin-right only */	
+	margin-right:4px;
+	
+}
+.royalSlider .royalControlNavOverflow a.royalThumb.current {	
+	background-position: -3px -3px  !important;
+	border:3px solid #C00 !important;
+	width:138px;
+	height:54px;
+}
+.royalSlider .royalControlNavOverflow a.royalThumb:hover {	
+	background-position: -3px -3px;	
+	border:3px solid #00C;
+	width:138px;
+	height:54px;
+}
+
+
+
+/* 
+
+	Thumbnails navigation arrows 
+	
+*/
+.royalSlider .thumbsArrow {	
+	width: 38px;
+	height: 68px;	
+	
+	cursor: pointer;
+	display: block;
+	position: relative;		
+	z-index: 25;
+	
+	background: #C99;
+	
+}
+.royalSlider .thumbsArrow.left {	
+	float: left;
+}
+.royalSlider .thumbsArrow.right {	
+	float: right;
+}
+.royalSlider .thumbsArrow:hover  {
+	
+}
+.royalSlider .thumbsArrow.disabled {
+	
+}
+
+
+
+
+
+
+/* Captions container */
+.royalSlider .royalCaption {
+	z-index:20;
+	display:block;
+	position:absolute;	
+	left:0;
+	top:0;
+	/*font: normal normal normal 1em/1.5em Georgia, serif;
+	color:#FFF;		*/
+}
+/* Caption item */
+.royalSlider .royalCaptionItem {
+	position:absolute;	
+	left:0;
+	top:0;
+	margin: 0;
+	padding: 0;
+}
+
+
+
+/* Loading (welcome) screen */
+.royalSlider .royalLoadingScreen {
+	background:#FFF;
+	width:100%;
+	height:100%;
+	position:absolute;
+	z-index:99;	
+}
+/* Loading screen text ("Loading...") */
+.royalSlider .royalLoadingScreen p {		
+	width:100%;
+	position:absolute;	
+	margin:0 auto;
+	top: 45%;
+	text-align:center;
+}
+
+/* single slide image preloader */
+.royalSlider .royalPreloader {	
+	position:absolute;
+	width:24px;
+	height:24px;
+	left:50%;
+	top:50%;
+	margin-left:-12px;
+	margin-top:-12px;	
+	z-index:0;	
+	background-image:url(../img/preloader.gif);
+}
+
+
+
+
+
+
+.royalSlider .grab-cursor{cursor:move;}
+.royalSlider .grab-cursor{}
+.royalSlider .grab-cursor{}
+.royalSlider .grab-cursor{cursor:move\0/;} /* ie8 hack */
+
+.royalSlider .grabbing-cursor{cursor:move;}
+.royalSlider .grabbing-cursor{}
+.royalSlider .grabbing-cursor{}
+
+
+/* Cursor used if mouse dragging is disabled */
+.royalSlider .auto-cursor{cursor:auto;}
+
+.royalSlider .royalHtmlContent {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.royalSlider .non-draggable {
+	cursor: auto;
+}
+.royalSlider .fade-container .royalSlide{
+	position: absolute;
+	left: 0;
+	top: 0;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	z-index: 10;
+}
+.royalSlider .royalImage {
+	max-width:none;
+	margin:0;
+	padding: 0 !important;
+	border: 0 !important;	
+}
+
+/*Default skin*/
+ /* Slider itself */
+ .royalSlider.default {
+
+ }
+ /* Slider with thumbs (used to add padding based on thumbnails size)*/
+ .royalSlider.default.with-thumbs {
+   padding-bottom: 68px;
+ }
+
+ /*
+   Left and right navigation arrows
+ */
+ .royalSlider.default .arrow
+ {
+   background-image:url(/img/controls.png);
+
+   /* change arrows size here */
+   width: 55px;
+   height: 60px;
+   margin-top:-15px;
+
+   -moz-border-radius: 4px;
+   -webkit-border-radius: 4px;
+   border-radius: 4px;
+
+   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+   filter: alpha(opacity=80);
+   -moz-opacity: 0.8;
+   -khtml-opacity: 0.8;
+   opacity: 0.8;
+   -moz-box-shadow: 0 0 25px rgba(255, 255, 255, .8);
+   -webkit-box-shadow: 0 0 25px rgba(255, 255, 255, .8);
+   box-shadow: 0 0 25px rgba(255, 255, 255, .8);
+   display: none !important;
+ }
+ /* arrow position in slider with thumbs */
+ .royalSlider.default.with-thumbs .arrow {
+   margin-top:-49px;
+ }
+ /* Arrow down state */
+ .royalSlider.default .arrow:active {
+
+ }
+ /* Arrow hover state */
+ .royalSlider.default .arrow:hover {
+   opacity: 1;
+ }
+ /* Arrow disabled state */
+ .royalSlider.default .arrow.disabled {
+   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=20)" !important;
+   filter: alpha(opacity=20) !important;
+   -moz-opacity: 0.2;
+   -khtml-opacity: 0.2;
+   opacity: 0.2;
+ }
+ /* left arrow */
+ .royalSlider.default .arrow.left {
+   background-position: top left;
+   left: 5px;
+ }
+ /* right arrow */
+ .royalSlider.default .arrow.right {
+   background-position: bottom left;
+   right: 5px;
+ }
+
+
+
+
+
+ /*
+   Bullets and thumbnails navigation
+ */
+ .royalSlider.default .royalControlNavOverflow a {
+   background-color: transparent;
+   background-image: url(/img/slide_bul.png);
+   background-position: center top;
+margin-right: 10px;
+   width:22px;
+   height:22px;
+ }
+ /* Current bullet */
+ .royalSlider.default .royalControlNavOverflow a.current {
+   background-position: 0 -22px !important;
+ }
+ /* Bullet hover state */
+ .royalSlider.default .royalControlNavOverflow a:hover {
+
+ }
+
+ /* Bullets nav sub-container */
+ .royalSlider.default .royalControlNavCenterer {
+ }
+ /* Bullets nav or thumbnails main container */
+ .royalSlider.default .royalControlNavOverflow {
+   margin-top:-30px;
+   height: 22px;
+ }
+ /* Thumbnails main container */
+ .royalSlider.default .royalControlNavOverflow.royalThumbs {
+   margin-top:4px;
+ }
+
+ /* Thumbnails */
+ .royalSlider.default .royalControlNavOverflow a.royalThumb{
+   background-color: transparent;
+   background-position: 0 0;
+
+   width:60px;
+   height:60px;
+   /* thumbnails spacing, use margin-right only */
+   margin-right:4px;
+
+ }
+ /* Current thumbnail */
+ .royalSlider.default .royalControlNavOverflow a.royalThumb.current {
+   background-position: -3px -3px  !important;
+   border:3px solid #666 !important;
+   width:54px;
+   height:54px;
+ }
+ /* Thumbnail hover state*/
+ .royalSlider.default .royalControlNavOverflow a.royalThumb:hover {
+   background-position: -3px -3px;
+   border: 3px solid #AAA;
+   width: 54px;
+   height: 54px;
+ }
+
+
+ /*
+   Thumbnails navigation arrows
+ */
+ .royalSlider.default .thumbsArrow {
+   background:url(controls-sprite.png) no-repeat 0 0;
+   width: 28px;
+   height: 68px;
+   -moz-opacity: 0.8;
+   opacity: 0.8;
+ }
+ .royalSlider.default .thumbsArrow.left {
+   background-position: -116px -132px;
+   left: 0;
+ }
+ .royalSlider.default .thumbsArrow.right {
+   background-position: -156px -132px;
+   right: 0
+ }
+ .royalSlider.default .thumbsArrow:hover  {
+   -moz-opacity: 1;
+   opacity: 1;
+ }
+ .royalSlider.default .thumbsArrow.disabled {
+   -moz-opacity: 1;
+   opacity: 1;
+ }
+ .royalSlider.default .thumbsArrow.left.disabled {
+   background-position: -36px -132px;
+ }
+ .royalSlider.default .thumbsArrow.right.disabled {
+   background-position: -76px -132px;
+ }
+
+
+ /* This stylesheet is used for preview, not related to slider basic files. Do NOT include it in your project */
+
+
+
+ #slider1 {
+   margin-top: 0px;
+   height: 400px;
+   width: 100%;
+ }
+
+ /* ======================== Sliders ===================== */
+
+
+ #banner-rotator,
+ #image-gallery,
+ #content-slider {
+   width: 100%;
+   height: 100%;
+
+ }
+ #content-slider {
+   width: 960px;
+   height: 300px;
+ }
+ #content-slider .exampleButton {
+   cursor:pointer;
+   padding:5px 12px 8px !important;
+   font-size:14px;
+ }
+ #content-slider .imageItem {
+   margin: 10px 35px 0;
+   float: left;
+ }
+ #content-slider .centeredSlide {
+   margin: 0 auto;
+   width: 850px;
+ }
+ #content-slider .slideTextBlock {
+   float:left;
+   width: 450px;
+   margin-left: -20px;
+   margin-top: 15px;
+ }
+ #content-slider h4 {
+   color: #555;
+   font-size:32px;
+   line-height:24px;
+   margin: 5px 0 11px 0;
+ }
+ #content-slider .slideTextBlock p {
+   color:#000;
+   margin-bottom:10px;
+   font-size:16px;
+   font-family: Georgia;
+ }
+ #content-slider img, #content-slider iframe {
+   float:left;
+   background:#FFF;
+   padding:8px;
+   border:1px solid #EEE;
+ }
+ #content-slider .royalSlide,
+ #content-slider .royalWrapper {
+   background: none;
+ }
+ #content-slider.royalSlider .royalControlNavOverflow {
+   margin-top: -25px;
+ }
+ #content-slider.royalSlider .arrow.right {
+   right: 0;
+ }
+ #content-slider.royalSlider .arrow.left {
+   left: 0;
+ }
+
+ #banner-rotator {
+   width: 100%;
+   height: 434px;
+
+   margin: 0 auto;
+ }
+
+
+
+ #banner-rotator .royalCaptionItem {
+   font-family: Segoe UI, Lucida Grande, Arial, sans-serif;
+   font-size: 32px;
+   font-weight: bold;
+   line-height: 38px;
+ }
+ #banner-rotator .sgMidText {
+   font-size:1.3em;
+ }
+ #banner-rotator .sgSmallText {
+   font-size:0.8em;
+ }
+ #banner-rotator .tintButton {
+   background:no-repeat 0 0;
+   background-color:#33383e;
+   color:#EAEAEA;
+   cursor:pointer;
+   padding:5px 12px;
+
+   -webkit-transition: background-color .2s ease-out;
+   -moz-transition: background-color .2s ease-out;
+   -o-transition: background-color .2s ease-out;
+   transition: background-color .2s ease-out;
+   text-decoration: none;
+ }
+ #banner-rotator .tintButton:hover {
+   background-color:#EAEAEA;
+   color:#33383e;
+ }
+ #banner-rotator .royalCaption {
+   position:absolute;
+   top:0;
+   left:0;
+ }
+
+
+
+ #image-gallery {
+   -webkit-box-shadow:0 1px 3px rgba(0,0,0,0.30);-moz-box-shadow:0 1px 3px rgba(0,0,0,0.30);box-shadow:0 1px 3px rgba(0,0,0,0.30);
+   background:#F5F5F5;
+   width: 900px;
+   height: 450px;
+ }
+ #image-gallery.royalSlider .royalControlNavOverflow a.royalThumb {
+   width: 140px;
+   height: 60px;
+ }
+ #image-gallery.royalSlider .royalControlNavOverflow a.royalThumb.current {
+   border:3px solid #75af00 !important;
+   width:134px;
+   height:54px;
+ }
+
+ #image-gallery.royalSlider .royalControlNavOverflow a.royalThumb:hover {
+
+   width: 134px;
+   height: 54px;
+ }
+ #image-gallery .royalCaption {
+   position: static;
+ }
+ #image-gallery .royalCaptionItem,
+ #image-gallery .staticTextBlock {
+   width: 100%;
+   color: #d2d2d2;
+   font-weight: bold;
+   text-align: center;
+
+   top: 415px;
+   width: 370px;
+   left: 50%;
+   margin-left: -185px;
+ }
+ #image-gallery .royalCaptionItem a {
+   color: #d2d2d2;
+ }
+
+
+ #content-slider .royalWrapper {
+   -webkit-box-shadow:0 1px 3px rgba(0,0,0,0.30);
+   -moz-box-shadow:0 1px 3px rgba(0,0,0,0.30);
+   box-shadow:0 1px 3px rgba(0,0,0,0.30);
+   background:#F5F5F5;
+   border-top:1px solid #FFF;
+   border-left:1px solid #FFF;
+   border-right:1px solid #FFF;
+ }
+
+ /* ======================== Sliders END ===================== */
+
+
+
+
+ /* ==|== non-semantic helper classes ========================================
+Please define your styles before this section.
+========================================================================== */
+
+ /* For image replacement */
+ .ir { display: block; border: 0; text-indent: -999em; overflow: hidden; background-color: transparent; background-repeat: no-repeat; text-align: left; direction: ltr; }
+ .ir br { display: none; }
+
+ /* Hide from both screenreaders and browsers: h5bp.com/u */
+ .hidden { display: none !important; visibility: hidden; }
+
+ /* Hide only visually, but have it available for screenreaders: h5bp.com/v */
+ .visuallyhidden { border: 0; clip: rect(0 0 0 0); height: 1px; margin: -1px; overflow: hidden; padding: 0; position: absolute; width: 1px; }
+
+ /* Extends the .visuallyhidden class to allow the element to be focusable when navigated to via the keyboard: h5bp.com/p */
+ .visuallyhidden.focusable:active, .visuallyhidden.focusable:focus { clip: auto; height: auto; margin: 0; overflow: visible; position: static; width: auto; }
+
+ /* Hide visually and from screenreaders, but maintain layout */
+ .invisible { visibility: hidden; }
+
+ /* Contain floats: h5bp.com/q */
+ .clearfix:before, .clearfix:after { content: ""; display: table; }
+ .clearfix:after { clear: both; }
+ .clearfix { zoom: 1; }
+
+
+
+ /* ==|== media queries ======================================================
+PLACEHOLDER Media Queries for Responsive Design.
+These override the primary ('mobile first') styles
+Modify as content requires.
+========================================================================== */
+
+ @media only screen and (min-width: 480px) {
+   /* Style adjustments for viewports 480px and over go here */
+
+ }
+
+ @media only screen and (min-width: 768px) {
+   /* Style adjustments for viewports 768px and over go here */
+
+ }
+
+
+
+ /* ==|== print styles =======================================================
+Print styles.
+Inlined to avoid required HTTP connection: h5bp.com/r
+========================================================================== */
+
+ @media print {
+   * { background: transparent !important; color: black !important; text-shadow: none !important; filter:none !important; -ms-filter: none !important; } /* Black prints faster: h5bp.com/s */
+   a, a:visited { text-decoration: underline; }
+   a[href]:after { content: " (" attr(href) ")"; }
+   abbr[title]:after { content: " (" attr(title) ")"; }
+   .ir a:after, a[href^="javascript:"]:after, a[href^="#"]:after { content: ""; }  /* Don't show links for images, or javascript/internal links */
+   pre, blockquote { border: 1px solid #999; page-break-inside: avoid; }
+   thead { display: table-header-group; } /* h5bp.com/t */
+   tr, img { page-break-inside: avoid; }
+   img { max-width: 100% !important; }
+   @page { margin: 0.5cm; }
+   p, h2, h3 { orphans: 3; widows: 3; }
+   h2, h3 { page-break-after: avoid; }
+ }

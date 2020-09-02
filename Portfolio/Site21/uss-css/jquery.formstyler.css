@@ -1,0 +1,50 @@
+.jq-selectbox__select{ cursor: pointer; overflow: hidden;  line-height: 23px;  white-space: nowrap;	height: 30px; box-sizing: border-box;  width:160px;  padding: 3px 13px; background-color: #ffe9d3; border: 1px solid #b74c1b;  font-size: 14px;   color: #322e2c; }
+.portfolio_filters .jq-selectbox__select{width:100%;}
+.jq-selectbox__trigger{    position: absolute; height: 100%; width: 35px; top: 0px; right: 0px;}
+.jq-selectbox__trigger .jq-selectbox__trigger-arrow{height: 100%; width: 30px; background-image: url(../img/arrow_filter.png); background-repeat: no-repeat;    background-position: 16px 13px; }
+.opened .jq-selectbox__trigger, .active .jq-selectbox__trigger{ }
+.jq-selectbox__dropdown{  background-color: #5392cb;}
+.jq-selectbox__dropdown ul{margin:0px;}
+.jq-selectbox__dropdown input{    width: 100%;}
+.portfolio_filters  select.active{background-color: #d0e5f8;}
+.portfolio_filters  .portfolio_filter {width: 100%;   }
+.opened .jq-selectbox__select, .active .jq-selectbox__select{background-color: #ffa956;}
+.portfolio_filters .clear {display:none;position: absolute; top: 19px; left: 20px; color: #fff; font-size: 14px; font-weight: bold; text-shadow: 0px -1px 0px #00365a;    letter-spacing: 0.4px;}
+.portfolio_filters .clear.active{    display: block;}
+.portfolio_filters .clear span.t{    cursor: pointer; border-bottom: 1px dashed #C5FE00;    text-decoration: none;    color: #C5FE00;}
+.portfolio_filters .clear span.i{   cursor: pointer;  background: url(../img/x.png) 0px 0px no-repeat;  width: 10px;  height: 10px;  display: inline-block;  margin-right: 5px;  top: -1px;  position: relative;  margin-left: 8px;}
+.portfolio_filters .one_filter_select{    float: left;    width: 205px;    margin-left: 20px;}
+
+.jq-selectbox__dropdown {
+    box-sizing: border-box;
+    width: 100%;
+    margin: 2px 0 0;
+    padding: 0;
+    border: 1px solid #B74C1B;
+    background: #ffa956;
+    box-shadow: 0 2px 10px rgba(0,0,0,.2);
+    font: 14px/18px Arial, sans-serif;
+}
+.jq-selectbox__dropdown ul li.selected,.jq-selectbox__dropdown ul li{	    margin: 0;    padding: 5px 15px;    cursor: pointer;}
+.jq-selectbox__dropdown ul li:hover{    background-color: #90BAE0;}
+.jq-selectbox__dropdown ul li.selected,.jq-selectbox__dropdown ul li.sel{	   background-color: #F7993E; }
+.jq-selectbox__search {
+	margin: 5px;
+}
+.jq-selectbox__search input {
+	box-sizing: border-box;
+	width: 100%;
+	margin: 0;
+	padding: 5px 27px 6px 8px;
+	border: 1px solid #B74C1B;
+	outline: none;
+	background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAO1JREFUeNqU078LAXEYx/FzYfNzk5TJaFNKYjFYSQZ/hvwBsvg1UCY2xT9gM8hukQGThWRjkcFw3pdnujhfT736Xn2fPvfc3fd07V0OFDDFAnM0ENYsZRiGLSc9OpqIYIA9fMhhjCrW2h9VlMlcH/aymMGtOqEugX08PwQucUZKdTozMIqdTc9WepQD7wjY9ARx+ydwhfyXfS+S0qMcOEQJGcueB3VccFINdMgal6NzkmPjRwJXxDBB7/2RDdtAp6wb+dpphHDASG5QQ0V6u2aoSqBZD/lDrNWRJynLK2qpBn4rc6K2XB9/Nb8EGABtf1thzY6X2AAAAABJRU5ErkJggg==) no-repeat 100% 50%;
+	box-shadow:none;
+	color: #333;
+	-webkit-appearance: textfield;
+	background-color: #FFE9D3;
+}
+.jq-selectbox__search input::-webkit-search-cancel-button,
+.jq-selectbox__search input::-webkit-search-decoration {
+	-webkit-appearance: none;
+}

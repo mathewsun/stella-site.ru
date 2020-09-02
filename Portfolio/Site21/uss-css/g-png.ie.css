@@ -1,0 +1,45 @@
+/*
+    РџРѕРґРґРµСЂР¶РєР° PNG-24 РґР»СЏ MSIE6.
+
+    РџСЂРёРјРµСЂ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёСЏ:
+
+    <i class="g-png"><img src="..." alt="РљР°СЂС‚РёРЅРєР°"/></i>
+*/
+
+/* РџРѕРґРґРµСЂР¶РєР° PNG-24 (begin) */
+    * html*.g-png /* РЎРєСЂС‹РІР°РµРј РѕС‚ MSIE5 */
+    {
+        zoom: expression(
+            runtimeStyle.zoom = 1, /* РѕРґРЅРѕСЂР°Р·РѕРІС‹Р№ expression, Р·Р°РѕРґРЅРѕ РІС‹СЃС‚Р°РІР»СЏРµРј hasLayout */ /**/
+            runtimeStyle.filter += /* РґРѕР±Р°РІР»СЏРµРј С„РёР»СЊС‚СЂ, URL РёР·РѕР±СЂР°Р¶РµРЅРёСЏ Р±РµСЂС‘Рј РёР· img */ /**/
+                "progid:DXImageTransform.Microsoft.AlphaImageLoader(src=" + getElementsByTagName("img")[0].src + ")"
+        );
+    }
+
+    * html*.g-png img /* РЎРєСЂС‹РІР°РµРј РѕС‚ MSIE5 */
+    {
+        visibility: expression(
+            runtimeStyle.visibility="hidden", /* РѕРґРЅРѕСЂР°Р·РѕРІС‹Р№ expression, СЃРєСЂС‹РІР°РµРј РєР°СЂС‚РёРЅРєСѓ */ /**/
+
+            /* Bug MSIE6: pointer С‚РѕР»СЊРєРѕ РЅР° РЅРµРїСЂРѕР·СЂР°С‡РЅС‹С… РѕР±Р»Р°СЃС‚СЏС… png-24 */
+            parentNode.insertBefore(createElement("png"), this) /* РґРѕР±Р°РІР»СЏРµРј РїРµСЂРµРґ РєР°СЂС‚РёРЅРєРѕР№ СЌР»РµРјРµРЅС‚ <png> */ /**/
+        );
+    }
+
+    * html*.g-png png
+    {
+        font-size: 0;
+
+        position: absolute;
+
+        /* РѕРґРЅРѕСЂР°Р·РѕРІС‹Рµ expression'С‹, РІС‹СЃС‚Р°РІР»СЏРµРј С€РёСЂРёРЅСѓ / РІС‹СЃРѕС‚Сѓ РєР°Рє Сѓ СЂРѕРґРёС‚РµР»СЏ */ /**/
+        width: expression(runtimeStyle.width = parentNode.offsetWidth + "px");
+        height: expression(runtimeStyle.height = parentNode.offsetHeight + "px");
+    }
+
+    * html a.g-png, * html a .g-png, * html .g-png a
+    {
+        /* Bug MSIE6: pointer С‚РѕР»СЊРєРѕ РЅР° РЅРµРїСЂРѕР·СЂР°С‡РЅС‹С… РѕР±Р»Р°СЃС‚СЏС… png-24 */
+        cursor: hand;
+    }
+/* РџРѕРґРґРµСЂР¶РєР° PNG-24 (end) */

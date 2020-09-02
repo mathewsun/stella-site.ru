@@ -1,0 +1,157 @@
+.uss_forum .theme_title {
+	font-size:150%;
+}
+
+.uss_forum table {
+	width: 100%;
+}
+
+.uss_forum th {
+	background: #dddddd;
+}
+
+.uss_forum td {
+	padding: 5px;
+	text-align: center;
+	vertical-align:top; 
+	border: 1px solid #cccccc;
+	padding: 5px;
+	text-align: center;
+
+}
+
+	/* Разделы */
+	
+	.pattern_bg {background:#ddd; color:#333;}
+	.pattern_border {border:1px solid #ccc;}
+	.datacontainer {padding:5px;}
+	.datacontainer div.block_img {float:left; margin:0 5px 0 0;}
+	.datacontainer div.block_text {overflow:hidden;}
+	.datacontainer div.block_title {font-size:12px; font-weight:bold;}
+	
+	.uss_forum .topics {clear:both;} 
+	
+	.uss_forum .forum_info {clear:both; float:left; width:100%;}
+	.uss_forum .topics_title {clear:both; float:left; width:100%; font-weight:bold;}
+	.uss_forum .topics_title .title {width:60%; float:left; overflow:hidden;}
+	.uss_forum .topics_title .themescount  {width:6%; float:left; overflow:hidden; text-align:center;}
+	.uss_forum .topics_title .mescount {width:14%; float:left; overflow:hidden; text-align:center;}
+	.uss_forum .topics_title .lastmes {width:20%; float:left; overflow:hidden; text-align:center;}
+	
+	.uss_forum .topics_item {clear:both; float:left; width:100%;}
+	.uss_forum .topics_item .forum_info {border-top:none;}
+	.uss_forum .topics_item .datacontainer {padding:8px 5px;}
+	.uss_forum .topics_item .title {width:60%; float:left; overflow:hidden;}
+	.uss_forum .topics_item .title div.descr {font-size:11px;}
+	.uss_forum .topics_item .themescount {width:6%; float:left; overflow:hidden; text-align:center;}
+	.uss_forum .topics_item .mescount {width:14%; float:left; overflow:hidden; text-align:center;}
+	.uss_forum .topics_item .lastmes {width:20%; float:left; overflow:hidden; text-align:center; font-size:11px;}
+	
+	
+	/* Темы */
+	.uss_forum .themes {clear:both;} 
+	.uss_forum .themes_title {clear:both; float:left; width:100%; font-weight:bold;}
+	.uss_forum .themes_title .title {width:50%; float:left; overflow:hidden;}
+	.uss_forum .themes_title .lastmessage {width:20%; float:left; overflow:hidden; text-align:center;}
+	.uss_forum .themes_title .mescount {width:15%; float:left; overflow:hidden; text-align:center;}
+	.uss_forum .themes_title .views {width:15%; float:left; overflow:hidden; text-align:center;}
+
+	.uss_forum .themes_item {clear:both; float:left; width:100%;}
+	.uss_forum .themes_item .forum_info {border-top:none;}
+	.uss_forum .themes_item .datacontainer {padding:8px 5px;}
+	.uss_forum .themes_item .title {width:50%; float:left; overflow:hidden;}
+	.uss_forum .themes_item .title div.author {font-size:11px;}
+	.uss_forum .themes_item .lastmessage {width:20%; float:left; overflow:hidden; text-align:center; font-size:11px;}	
+	.uss_forum .themes_item .mescount {width:15%; float:left; overflow:hidden; text-align:center;}
+	.uss_forum .themes_item .views {width:15%; float:left; overflow:hidden; text-align:center;}
+	
+	/* Сообщения */
+	.theme_title {margin:0 0 20px;}
+	.uss_forum .posts {}
+	.uss_forum .posts .postHeader {float:left; width:100%;}
+	
+		.uss_forum .posts .date {
+			font-size:12px;
+			width:60%; float:left;
+		}
+		.uss_forum .posts .date .datacontainer {padding-left:20px; background:url('../uss-img/forum/post_old.png') no-repeat 5px 50%;}
+		.uss_forum .posts .postid {
+			text-align:right;
+			float:left; 
+			width:40%;
+		}
+		.uss_forum .posts .postid a {color:#333;}
+		
+		.uss_forum .posts  .postBody {clear:both; float:left; width:100%; border-top:none;}
+		.uss_forum .posts  .postFooter {clear:both;}
+		
+		.uss_forum .posts .userinfo { 
+			width: 160px;
+			text-align:center;
+			float:left;
+			margin:0 15px 15px 0;
+			padding:5px 0;
+		}
+
+			.uss_forum .posts .userinfo .name{ 
+				font-size:14px;
+				font-weight:bold;
+				margin:5px 0;
+				
+			}
+
+			.uss_forum .posts .userinfo .reg, .uss_forum .posts .userinfo .mescount, .uss_forum .posts .userinfo .city { 
+				font-size:11px;
+			}
+ 
+		.uss_forum .posts .message{
+			text-align: left;
+			overflow:hidden;
+			margin:0 10px 20px;
+			padding:10px 0;
+		}
+
+			.uss_forum .posts .message .bb_quote_title {
+				margin:10px 0 0px 0px;
+				font-size:11px;
+				font-weight:bold;
+				padding:2px 1px;
+			}
+			
+			.uss_forum .posts .message .bb_quote {
+				border:1px solid #ccc;
+				margin:0 0px 10px 0px;
+				padding:5px 9px;
+				clear:both;
+				font-size:11px;
+				background:#eee;
+				color:#333;
+			}
+			.uss_forum .posts .message .signature {
+				border-top: 1px solid #ccc;
+				padding-top: 10px;
+				margin-top:10px;
+			}
+			
+		.uss_forum .posts .message .bb_quote .bb_quote_author{}
+
+		.uss_forum .create_theme {margin:10px 0;}
+		.uss_forum .create_theme a {text-decoration:none;}
+		.uss_forum .create_theme a strong {font-size:20px; vertical-align:middle;}
+		.uss_forum .create_theme a span {text-decoration:underline; vertical-align:middle;}
+		.uss_forum .create_theme a:hover span {text-decoration:none;}
+		
+		.uss_forum .posts  .actions {text-align:right; padding:2px 0; margin:0 0 10px; float:left; width:100%; background:#ddd; border:1px solid #ccc; border-top:none;}
+		.uss_forum .posts  .actions .button {float:right;}
+		.uss_forum .posts  .actions .button a {text-decoration:none; margin:0 5px;}
+		.uss_forum .posts  .actions .button a span {text-decoration:underline; color:#333;}
+		.uss_forum .posts  .actions .button a:hover span {text-decoration:none;}
+		.uss_forum .posts  .actions .button.quote img {vertical-align:middle; margin:0 2px 0 0}
+		
+.uss_forum .pager {float:right;}
+
+.auth_required {font-size:200%;}
+
+.uss_shop_form h3 {margin:10px 0 !important; padding:0 !important;}
+
+

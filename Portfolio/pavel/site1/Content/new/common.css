@@ -1,0 +1,400 @@
+﻿h2, h1, h3 {
+    color: #269e60;
+}
+
+    h2 a {
+        text-decoration: none;
+    }
+
+hr {
+    width: 65%;
+    margin: 0px;
+}
+
+#authorization {
+    position: absolute;
+    right: 7px;
+    top: 0px;
+    margin: 0;
+    width: 420px;
+    height: 17px;
+    color: white;
+}
+
+    #authorization a {
+        color: white;
+    }
+
+#authorizationList {
+    margin: 0px;
+}
+
+#logged {
+    display: block;
+    float: left;
+    height: 43px;
+    overflow: hidden;
+    margin-top: 10px;
+}
+
+#logo h3 {
+    margin: 0;
+}
+
+#logo a {
+    display: block;
+    width: 59px;
+    height: 78px;
+}
+
+#logo span {
+    display: none;
+}
+
+#logo {
+    margin: 0 0 50px;
+    width: 200px;
+    height: 100px;
+}
+
+#mainBox {
+}
+
+.greenText {
+    color: #269e60;
+}
+
+    .greenText a {
+        color: #269e60;
+    }
+
+.green {
+    border: 1px solid #269e60;
+}
+
+.greenLine {
+    background-color: #9aebc1;
+}
+
+.red {
+    background-color: #f6cece !important;
+}
+
+.loginTable input[type="text"], .loginTable input[type="password"] {
+    width: 160px !important;
+}
+
+.registerTable input[type="text"], .registerTable input[type="password"] {
+    width: 250px !important;
+}
+
+.basicTable {
+    margin: 10px;
+    border: 1px solid #269e60;
+}
+
+    .basicTable th {
+        border-bottom: 1px dashed #269e60;
+        color: #269e60;
+        font-weight: normal;
+        padding: 8px 5px;
+    }
+
+    .basicTable td {
+        color: #269e60;
+        padding: 7px 5px;
+    }
+
+    .basicTable a {
+        color: #269e60;
+        text-decoration: none;
+    }
+
+.button {
+    outline-color: #269e60;
+    background-color: #269e60;
+    color: #fff;
+    border: 1px solid #269e60;
+    cursor: pointer;
+}
+
+.leftMenuItems div {
+    padding-bottom: 15px;
+}
+
+.leftMenuItems a {
+    font: 14px/118% "Verdana",sans-serif;
+}
+
+.accountsTable {
+    border: 1px solid #269e60;
+    margin-left: 0px;
+    width: auto !important;
+}
+
+    .accountsTable th {
+        border-bottom: 1px dashed #269e60;
+        color: #269e60;
+        font-weight: normal;
+        padding: 12px 5px;
+        width: 5px;
+    }
+
+    .accountsTable td {
+        color: #269e60;
+        padding: 7px 5px;
+        text-align: center;
+    }
+
+        .accountsTable td a {
+            color: #269e60;
+        }
+
+    .accountsTable tr:hover td {
+        background: #9aebc1 none repeat scroll 0 0;
+        color: #269e60;
+    }
+
+        .accountsTable tr:hover td a {
+            color: #269e60;
+        }
+
+.elementsTable {
+    margin-top: 10px;
+}
+
+    .elementsTable td {
+        padding: 7px 17px;
+    }
+
+.date {
+    color: #269e60;
+}
+
+.vkAccountEvents td {
+    padding: 7px 17px;
+}
+
+
+
+.tableServices td {
+    padding: 1em;
+    border: solid 1px #ddd;
+}
+
+    .tableServices td:hover {
+        background-color: #c7d1d6;
+        cursor: pointer;
+    }
+
+.signImage {
+    margin: 0 0 0 55px;
+}
+
+.validation-summary-errors {
+    color: red;
+}
+
+.delete {
+    color: white;
+    font-weight: bold;
+    background-color: grey;
+}
+
+.boxFAQ {
+    padding: 22px 0 0;
+}
+
+    .boxFAQ h2 {
+        color: #000000;
+        font: 20px/28px "DinCyBd";
+        text-transform: uppercase;
+    }
+
+.listFAQ {
+    padding: 6px 0 0;
+}
+
+    .listFAQ ul li {
+        border-bottom: 1px dotted #269e60;
+        list-style: outside none none;
+        padding: 20px 2px;
+    }
+
+        .listFAQ ul li.active .question {
+            background-position: left bottom;
+            color: #269e60;
+        }
+
+    .listFAQ .question {
+        background: rgba(0, 0, 0, 0) url("../Images/icon_faq.png") no-repeat scroll left top;
+        color: #269e60;
+        display: inline-block;
+        font: 13px "DinCyMd";
+        min-height: 23px;
+        padding: 1px 0 0 34px;
+        text-transform: uppercase;
+    }
+
+    .listFAQ ul li.active .question span {
+        border-bottom: 1px dashed #269e60;
+    }
+
+    .listFAQ ul li.active .question:hover span {
+        border-bottom: medium none;
+    }
+
+    .listFAQ .question span {
+        border-bottom: 1px dashed #269e60;
+    }
+
+.resultLabel {
+    color: green;
+    font-weight: bold;
+}
+
+.question {
+    color: #269e60;
+    font-weight: bold;
+}
+
+.answer {
+    color: #000;
+    margin-left: 25px;
+}
+
+.elementsTable input[type="text"] {
+    width: 250px;
+    border: 1px solid #269e60;
+}
+
+.elementsTable input[type="email"] {
+    width: 250px;
+    border: 1px solid #269e60;
+}
+
+.adminUsers th {
+    font-weight: bold;
+}
+
+.uploadTextBox {
+    width: 400px;
+}
+
+    .uploadTextBox:focus {
+        border: 1px solid #269e60;
+        box-shadow: 0 0 8px #269e60;
+    }
+
+.middle {
+    text-align: center;
+}
+
+ul#footerMenuUl li {
+    display: inline;
+}
+
+    ul#footerMenuUl li a {
+        color: white;
+        text-decoration: none;
+        padding-left: 10px;
+    }
+
+        ul#footerMenuUl li a:hover {
+            color: #37c27a;
+            text-decoration: none;
+        }
+
+.payWebMonetTable {
+    border-spacing: 5px;
+    border-collapse: separate;
+}
+
+    .payWebMonetTable td {
+        padding: 7px;
+    }
+
+.nounderline {
+    text-decoration: none;
+}
+
+.marginleft {
+    margin-left: -30px;
+}
+
+#reclame_left {
+    margin-left: 15px;
+}
+
+.cabinetTextBox {
+    border: 1px solid white;
+    color: #37c27a;
+    width: 300px;
+}
+
+.cabinetTextBoxVisible {
+    border-color: #269e60;
+}
+
+
+.cabinetTable {
+    border: none;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.defaultSocial {
+    width: 102px;
+}
+
+.wideTextBox {
+    width: 450px !important;
+}
+
+.onhoverbold:hover {
+    font-weight: bold;
+}
+
+.dowload-img {
+    width: 100px;
+}
+
+#download table {
+    border: solid #269e60 1px;
+    color: #269e60;
+}
+
+    #download table tr {
+        cursor: pointer;
+        border: solid #269e60 1px;
+    }
+
+    #download table td {
+        padding-left: 7px;
+        padding-right: 7px;
+        padding-top: 4px;
+        padding-bottom: 4px;
+        /*border: solid #269e60 1px;*/
+    }
+
+#download a {
+    color: #269e60;
+}
+
+    #download a:hover {
+        text-decoration: underline;
+    }
+
+.border-bottom {
+    border-bottom: 1pt solid #269e60;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.center {
+    text-align: center;
+}

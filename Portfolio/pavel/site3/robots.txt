@@ -1,0 +1,3 @@
+User-agent: *
+Host: vroombike.ru
+Sitemap: http://vroombike.ru/sitemap.xml

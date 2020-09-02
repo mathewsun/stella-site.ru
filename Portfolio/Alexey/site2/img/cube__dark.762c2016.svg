@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-name="Слой 1" viewBox="0 0 257.79 289.72">
+  <defs>
+    <linearGradient id="a" x1="132.21" x2="58.98" y1="151.21" y2="-6.23" gradientUnits="userSpaceOnUse">
+      <stop offset=".02" stop-color="#2a2f4a"/>
+      <stop offset=".35" stop-color="#272b45"/>
+      <stop offset=".76" stop-color="#1d1e35"/>
+      <stop offset=".98" stop-color="#16152a"/>
+    </linearGradient>
+    <clipPath id="b">
+      <path fill="url(#a)" d="M123.15 1.4L6.8 61.4A12.57 12.57 0 0 0 0 72.57v143a12.54 12.54 0 0 0 6.8 11.16l116.35 60a12.53 12.53 0 0 0 11.49 0l116.35-60a12.54 12.54 0 0 0 6.8-11.16v-143A12.57 12.57 0 0 0 251 61.4l-116.36-60a12.47 12.47 0 0 0-11.49 0z"/>
+    </clipPath>
+    <linearGradient id="c" x1="241.15" x2="120.04" y1="313.39" y2="-25.72" gradientUnits="userSpaceOnUse">
+      <stop offset=".02" stop-color="#2d304b"/>
+      <stop offset=".35" stop-color="#292b46"/>
+      <stop offset=".77" stop-color="#1e1e36"/>
+      <stop offset=".98" stop-color="#16152c"/>
+    </linearGradient>
+    <linearGradient id="d" x1="180.85" x2="7.26" y1="178.16" y2="178.16" xlink:href="#a"/>
+  </defs>
+  <path fill="url(#a)" d="M123.15 1.4L6.8 61.4A12.57 12.57 0 0 0 0 72.57v143a12.54 12.54 0 0 0 6.8 11.16l116.35 60a12.53 12.53 0 0 0 11.49 0l116.35-60a12.54 12.54 0 0 0 6.8-11.16v-143A12.57 12.57 0 0 0 251 61.4l-116.36-60a12.47 12.47 0 0 0-11.49 0z"/>
+  <g clip-path="url(#b)">
+    <path fill="url(#c)" d="M128.9 131.39L253.35 67.2a3 3 0 0 1 4.44 2.71v148.22a8.39 8.39 0 0 1-4.53 7.45L128.9 289.72z"/>
+    <path fill="url(#d)" d="M4.53 225.58l124.37 64.14V131.39L3.88 66.91A2.66 2.66 0 0 0 0 69.28v148.85a8.39 8.39 0 0 0 4.53 7.45z"/>
+  </g>
+</svg>

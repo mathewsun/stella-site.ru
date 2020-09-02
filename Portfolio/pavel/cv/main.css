@@ -1,0 +1,227 @@
+@font-face {
+    font-family: 'Century Gothic';
+    src: url('font/CenturyGothic.eot'); /* IE9 Compat Modes */
+    src: url('font/CenturyGothic.eot') format('embedded-opentype'), /* IE6-IE8 */
+         url('font/CenturyGothic.woff') format('woff'), /* Modern Browsers */
+         url('font/CenturyGothic.ttf')  format('truetype'), /* Safari, Android, iOS */
+         url('font/CenturyGothic.svg') format('svg'); /* Legacy iOS */
+    }
+
+body {
+    font-family: "Century Gothic";
+    background: url("downloaded/512417-PIRWNW-36_2.png");
+    background-repeat: repeat;
+    background-size: 40%;
+}
+
+.img_face {
+    margin-left: -2%;
+    margin-top: -2%;
+}
+
+.container {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.container_vertical {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.work_flex {
+    display: block;
+}
+
+.work_exp {
+    text-align: justify;
+}
+
+.work_exp p {
+    text-align: center;
+}
+
+.description {
+    font-size: 16px;
+    margin-bottom: 1%;
+}
+
+
+h4 {
+    text-align: center;
+}
+
+.rzd {
+    font-size: 16px;
+    text-align: center;
+    margin-top: -10px;
+    margin-bottom: -7px;
+    font-weight: 600;
+}
+
+h2 {
+    font-size: 1.5em;
+    text-align: center;
+    background-image: radial-gradient(farthest-side at 50% 50%,  lightgrey, rgba(255,0,0,0));
+}
+
+hr {
+    border: none; 
+    background-color: midnightblue;
+    height: 2px;
+}
+
+.certificates {
+    display: block;
+}
+
+.certificate {
+    height: 25%;
+}
+a img {
+    width: 100%;
+    margin-bottom: 5%;
+}
+
+.img_row {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+
+
+.degree_description {
+    font-size: 16px;
+    text-align: center;
+}
+.position {
+    color: darkslateblue;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: pointer;
+    max-width: 50%;
+    border-bottom: solid 1px black;
+}
+
+.certify {
+    cursor: pointer;
+    display:inline-flex;
+    color: darkslateblue;
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+
+.block_1 {
+    width: 100%;
+    margin-left: 2vh;
+    margin-right: 2vh;
+}
+
+.block_2 {
+    width: 100%;
+    margin-left: 2vh;
+    margin-right: 2vh;
+}
+
+.skill_icons {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    z-index: 2;
+    margin-top: 25px;
+}
+
+
+.header {
+    position: relative;
+    display: block;
+    width: 100%;
+    padding-bottom: 230px;
+    background-image: url("Face1.png")
+}
+
+.img_skill {
+    max-height: 8vh;
+    max-width: 8vw;
+    margin-right: 15px;
+}
+.skill_icons img:hover {
+    transform: rotate(360deg);
+    transition: all 0.5s;
+}
+
+h3 {
+    text-align: center;
+}
+.http {
+    text-align: center;
+}
+
+
+
+.project_pics {
+    width: 100 %;
+}
+
+.project_pic {
+    width: 100%
+}
+
+
+/* ============== MODAL ============= */
+.modal {
+  display: none;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  overflow: auto;
+  background: rgba(0, 0, 0, 0.8);
+  z-index: 99999;
+  animation-name: show;
+  animation-duration: 0.5s
+}
+
+.modal-content {
+  position: relative;
+  background-color: #fff;
+  margin: 10% auto;
+  border: 1px solid #888;
+  width: 80%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+@keyframes show {
+  0% {
+    display: none;
+    opacity: 0;
+  }
+  100% {
+    display: block;
+    opacity: 1;
+  }
+}
+
+.modal-header {
+  padding: 12px;
+  background-color: grey;
+  color: white;
+}
+.close:hover {
+    cursor: pointer
+}
+
+.about_me {
+    margin-left: 22%;
+    margin-top: -3%;
+}
+
+
